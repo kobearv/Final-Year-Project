@@ -1,0 +1,20 @@
+First install the python nltk library using pip 
+ 
+
+You should first have a folder called bank with each question as a file whose contents are of the following format:-
+
+Question
+Marks:30
+Difficulty:3.5
+
+Now execute client.py: python client.py 
+
+
+Now choose one of the options you would want to filter the questions based on from the menu displayed
+
+If you do enter a new output file name please check that output file for all your questions else check the file named output for all your questions
+
+
+Have a great time creating question papers!!
+
+Cheers!!
